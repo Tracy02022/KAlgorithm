@@ -1,0 +1,45 @@
+// 10 vertices
+graph G {
+   0 -- 1 [label=4, color=lightgray, fontsize=10, fontcolor=lightgray];
+   0 -- 3 [label=16, color=lightgray, fontsize=10, fontcolor=lightgray];
+   0 -- 4 [label=1, color=indigo, weight=bold];
+   0 -- 5 [label=10, color=lightgray, fontsize=10, fontcolor=lightgray];
+   0 -- 6 [label=20, color=lightgray, fontsize=10, fontcolor=lightgray];
+   0 -- 7 [label=14, color=lightgray, fontsize=10, fontcolor=lightgray];
+   0 -- 8 [label=15, color=lightgray, fontsize=10, fontcolor=lightgray];
+   0 -- 9 [label=19, color=lightgray, fontsize=10, fontcolor=lightgray];
+   1 -- 2 [label=10, color=lightgray, fontsize=10, fontcolor=lightgray];
+   1 -- 3 [label=12, color=lightgray, fontsize=10, fontcolor=lightgray];
+   1 -- 4 [label=19, color=lightgray, fontsize=10, fontcolor=lightgray];
+   1 -- 5 [label=4, color=lightgray, fontsize=10, fontcolor=lightgray];
+   1 -- 6 [label=1, color=indigo, weight=bold];
+   1 -- 7 [label=2, color=indigo, weight=bold];
+   1 -- 8 [label=2, color=indigo, weight=bold];
+   1 -- 9 [label=18, color=lightgray, fontsize=10, fontcolor=lightgray];
+   2 -- 3 [label=9, color=lightgray, fontsize=10, fontcolor=lightgray];
+   2 -- 4 [label=19, color=lightgray, fontsize=10, fontcolor=lightgray];
+   2 -- 6 [label=13, color=lightgray, fontsize=10, fontcolor=lightgray];
+   2 -- 7 [label=13, color=lightgray, fontsize=10, fontcolor=lightgray];
+   2 -- 8 [label=7, color=lightgray, fontsize=10, fontcolor=lightgray];
+   2 -- 9 [label=6, color=indigo, weight=bold];
+   3 -- 4 [label=20, color=lightgray, fontsize=10, fontcolor=lightgray];
+   3 -- 6 [label=11, color=lightgray, fontsize=10, fontcolor=lightgray];
+   3 -- 7 [label=7, color=lightgray, fontsize=10, fontcolor=lightgray];
+   3 -- 8 [label=3, color=indigo, weight=bold];
+   3 -- 9 [label=18, color=lightgray, fontsize=10, fontcolor=lightgray];
+   4 -- 5 [label=11, color=lightgray, fontsize=10, fontcolor=lightgray];
+   4 -- 6 [label=11, color=lightgray, fontsize=10, fontcolor=lightgray];
+   4 -- 7 [label=17, color=lightgray, fontsize=10, fontcolor=lightgray];
+   4 -- 8 [label=3, color=indigo, weight=bold];
+   4 -- 9 [label=2, color=indigo, weight=bold];
+   5 -- 6 [label=13, color=lightgray, fontsize=10, fontcolor=lightgray];
+   5 -- 7 [label=11, color=lightgray, fontsize=10, fontcolor=lightgray];
+   5 -- 8 [label=3, color=indigo, weight=bold];
+   5 -- 9 [label=10, color=lightgray, fontsize=10, fontcolor=lightgray];
+   6 -- 7 [label=14, color=lightgray, fontsize=10, fontcolor=lightgray];
+   6 -- 8 [label=5, color=lightgray, fontsize=10, fontcolor=lightgray];
+   6 -- 9 [label=5, color=lightgray, fontsize=10, fontcolor=lightgray];
+   7 -- 8 [label=15, color=lightgray, fontsize=10, fontcolor=lightgray];
+   7 -- 9 [label=6, color=lightgray, fontsize=10, fontcolor=lightgray];
+   8 -- 9 [label=14, color=lightgray, fontsize=10, fontcolor=lightgray];
+}
